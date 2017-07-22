@@ -2,16 +2,16 @@
 
 Rails 5.1 Blazing Fast Template 
 
-Getting Started
+##Getting Started
 
 Install the project on your local machine for development and testing purposes. 
 See deployment for notes on how to deploy the project on a live system.
 
-Prerequisites
+##Prerequisites
 
 Ruby - version 2.4.1. Minimum version recommended: ruby 2.2.2
 
-Deployment
+##Deployment
 
 Create the folders:
  /tmp/sockets
@@ -19,6 +19,6 @@ Create the folders:
  
 Project starts as a process directly.
 
-License
+##License
 
 This project is licensed under the MIT License
